@@ -17,5 +17,4 @@ You will need PyTorch as well.
 
 You will also need to have transforms3d, which can be installed by using this command:
 
-Copy code
-pip install transforms3d
+''' pip install transforms3d '''
