@@ -9,6 +9,7 @@ The study is divided into three main parts:
 This README provides instructions on how to run the scripts for preprocessing, training, and evaluation.
 
 #### Setup
+
 Clone this repository to your local machine.
 
 Python 3.6 or higher is required to run the scripts. If you don't have Python installed, you can download it from [here](https://www.python.org/downloads/).
