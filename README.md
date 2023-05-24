@@ -16,5 +16,6 @@ Python 3.6 or higher is required to run the scripts. If you don't have Python in
 You will need PyTorch as well.
 
 You will also need to have transforms3d, which can be installed by using this command:
-
-''' pip install transforms3d '''
+```
+pip install transforms3d
+```
