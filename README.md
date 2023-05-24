@@ -28,7 +28,7 @@ The preprocessing stage involves converting BVH files into four distinct charact
 2. Open the "generate_training_data.py" script.
 3. Uncomment the code for each representation you want to generate training data for, and make sure to specify the correct input and output directories for your BVH files and processed data.
 
-Note: The training data are already generated and saved inside training_data folder
+*Note: The training data are already generated and saved inside training_data folder*
 
 
 ## Running Training Scripts
@@ -48,4 +48,4 @@ For each preprocessing script, you will need to update the following directory p
     dances_folder = "./train_data_xyz/martial/"
     ```
 
-Note: Already pretrained weights exist in the ./weights directory for each representation. If you want to load a weight, adjust the read_weight_path variable accordingly.
+*Note: Already pretrained weights exist in the ./weights directory for each representation. If you want to load a weight, adjust the read_weight_path variable accordingly.
