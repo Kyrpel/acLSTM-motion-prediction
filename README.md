@@ -19,10 +19,9 @@ You will also need to have transforms3d, which can be installed by using this co
 ```
 pip install transforms3d
 ```
-## Preprocessing
+## Preprocessing - Generation Data scripts:
 The preprocessing stage involves converting BVH files into four distinct character motion data representations. The script provided transforms BVH files into training data representations including positional, Euler angle, 6D, and quaternion representations.
 
-## Running Generation Data scripts:
 
 1. Go to the root directory of the project.
 2. Open the "generate_training_data.py" script.
