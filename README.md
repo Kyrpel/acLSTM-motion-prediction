@@ -8,7 +8,7 @@ Training: Training procedures and loss functions are tailored to each specific r
 Evaluation: Performance comparison of the network across different data representations.
 This README provides instructions on how to run the scripts for preprocessing, training, and evaluation.
 
-## Setup
+#### Setup
 Clone this repository to your local machine.
 
 Python 3.6 or higher is required to run the scripts. If you don't have Python installed, you can download it from [here](https://www.python.org/downloads/).
