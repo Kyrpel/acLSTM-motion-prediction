@@ -48,4 +48,4 @@ For each preprocessing script, you will need to update the following directory p
     dances_folder = "./train_data_xyz/martial/"
     ```
 
-*Note: Already pretrained weights exist in the ./weights directory for each representation. If you want to load a weight, adjust the read_weight_path variable accordingly.
+*Note: Already pretrained weights exist in the ./weights directory for each representation. If you want to load a weight, adjust the read_weight_path variable accordingly.*
