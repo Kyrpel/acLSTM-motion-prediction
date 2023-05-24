@@ -11,12 +11,11 @@ This README provides instructions on how to run the scripts for preprocessing, t
 ## Setup
 Clone this repository to your local machine.
 
-Python 3.6 or higher is required to run the scripts. If you don't have Python installed, you can download it from here.
+Python 3.6 or higher is required to run the scripts. If you don't have Python installed, you can download it from [here](https://www.python.org/downloads/).
 
-You will need PyTorch [Pytorch](https://pytorch.org/) as well.
+You will need  [Pytorch](https://pytorch.org/) as well.
 
 You will also need to have transforms3d, which can be installed by using this command:
 ```
 pip install transforms3d
 ```
-[Pytorch](https://arxiv.org/abs/1707.05363)
